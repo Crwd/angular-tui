@@ -22,7 +22,7 @@ export const en = {
 
   'tui-image-editor-angular-submenus-crop-custom': 'Custom',
   'tui-image-editor-angular-submenus-crop-square': 'Square',
-  'tui-image-editor-angular-submenus-crop-apply': 'Apply',
+  'tui-image-editor-angular-submenus-crop-apply': 'Anwenden',
   'tui-image-editor-angular-submenus-crop-cancel': 'Cancel',
   'tui-image-editor-angular-submenus-flip-x': 'Flip X',
   'tui-image-editor-angular-submenus-flip-y': 'Flip Y',
